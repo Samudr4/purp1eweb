@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newpurp1eweb/static/css/main.c6e2beba.css",
+    "main.js": "/newpurp1eweb/static/js/main.fea88764.js",
+    "index.html": "/newpurp1eweb/index.html",
+    "main.c6e2beba.css.map": "/newpurp1eweb/static/css/main.c6e2beba.css.map",
+    "main.fea88764.js.map": "/newpurp1eweb/static/js/main.fea88764.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6e2beba.css",
+    "static/js/main.fea88764.js"
+  ]
+}
