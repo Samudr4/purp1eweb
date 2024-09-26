@@ -30,13 +30,13 @@ This is a personal portfolio website built with **React** .
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/Samudr4/purp1eweb.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd portfolio
+   cd purp1eweb
    ```
 
 3. Install dependencies:
