@@ -14,7 +14,7 @@ function App() {
             Samudra K. Saikia
           </h3>
           <h1>
-            <span className="txt-rotate" data-period="1000" data-rotate='[ "Gamer.", "Product Manager.", "Dev." ]'></span>
+            <span className="txt-rotate" data-period="1000" data-rotate='[ "Developer.", "Editor/Graphic Designer.", "Gamer." ]'></span>
           </h1>
           <div className="social-links">
               <a href="https://www.instagram.com/samudr4.io/" style={{ color: 'white' }}>
